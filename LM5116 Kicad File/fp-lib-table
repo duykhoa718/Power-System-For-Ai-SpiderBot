@@ -1,0 +1,13 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "0678H9300-02") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/0678H9300_02/0678H9300-02.pretty") (options "") (descr ""))
+	(lib (name "LM25116") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/LM25116MHX_NOPB/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "TLV1701AIDBVR") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/TLV1701AIDBVR/TLV1701AIDBVR.pretty") (options "") (descr ""))
+	(lib (name "CSD17304Q3") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/ul_CSD17304Q3/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "PH1_01_UA") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/PH1_01_UA/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "61300311121") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/61300311121/61300311121.pretty") (options "") (descr ""))
+	(lib (name "XT60_M") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/XT60-M (1)/XT60_M.pretty") (options "") (descr ""))
+	(lib (name "1N5819HW-7-F") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/1N5819HW_7_F/1N5819HW-7-F.pretty") (options "") (descr ""))
+	(lib (name "SW_100SP1T1B4M2QE") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/100SP1T1B4M2QE/SW_100SP1T1B4M2QE.pretty") (options "") (descr ""))
+	(lib (name "IQDH29NE2LM5CGATMA1") (type "KiCad") (uri "C:/Users/Tuan Quang Lien/Documents/GitHub/Power-System-For-Ai-SpiderBot/LM5116 Component File/IQDH29NE2LM5CGATMA1/IQDH29NE2LM5CGATMA1.pretty") (options "") (descr ""))
+)
